@@ -1,0 +1,1 @@
+sonar-scanner -Dsonar.projectKey=HomeworkAssignmentStaticCodeAnalysis -Dsonar.sources=. -Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_9b0aeed59a8d1fb1bde819574b3793027580b6d4
